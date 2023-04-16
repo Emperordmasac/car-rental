@@ -1,10 +1,11 @@
-import { Hero, BookCar } from "components";
+import { Hero, BookCar, PlanTrip } from "components";
 
 const Home = () => {
     return (
         <>
             <Hero />
             <BookCar />
+            <PlanTrip />
         </>
     );
 };
