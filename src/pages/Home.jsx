@@ -1,9 +1,10 @@
-import { Hero } from "components";
+import { Hero, BookCar } from "components";
 
 const Home = () => {
     return (
         <>
             <Hero />
+            <BookCar />
         </>
     );
 };
