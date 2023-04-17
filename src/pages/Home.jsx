@@ -1,4 +1,12 @@
-import { Hero, BookCar, PlanTrip, PickCar, Banner, ChooseUs } from "components";
+import {
+    Hero,
+    BookCar,
+    PlanTrip,
+    PickCar,
+    Banner,
+    ChooseUs,
+    Testimonials,
+} from "components";
 
 const Home = () => {
     return (
@@ -9,6 +17,7 @@ const Home = () => {
             <PickCar />
             <Banner />
             <ChooseUs />
+            <Testimonials />
         </>
     );
 };
