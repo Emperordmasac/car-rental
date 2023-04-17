@@ -19,7 +19,6 @@ const TestimonialsPage = () => {
                         </div>
                     </div>
                 </div>
-
                 {/* footer */}
                 <Footer />
             </section>
