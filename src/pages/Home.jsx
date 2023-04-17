@@ -8,6 +8,7 @@ import {
     Testimonials,
     Faq,
     Download,
+    Footer,
 } from "components";
 
 const Home = () => {
@@ -22,6 +23,7 @@ const Home = () => {
             <Testimonials />
             <Faq />
             <Download />
+            <Footer />
         </>
     );
 };
