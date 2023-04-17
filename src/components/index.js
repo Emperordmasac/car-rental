@@ -9,6 +9,7 @@ import Testimonials from "./Testimonials";
 import Faq from "./Faq";
 import Download from "./Download";
 import Footer from "./Footer";
+import HeroPages from "./HeroPages";
 
 export {
     Navbar,
@@ -22,4 +23,5 @@ export {
     Faq,
     Download,
     Footer,
+    HeroPages,
 };
