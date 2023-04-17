@@ -2,7 +2,7 @@ import { Route, Routes } from "react-router-dom";
 
 import "static/dist/styles.css";
 import { Navbar } from "components";
-import { Home, About, Models, TestimonialsPage, Team } from "pages";
+import { Home, About, Models, TestimonialsPage, Team, Contact } from "pages";
 
 const App = () => {
     return (
@@ -14,6 +14,7 @@ const App = () => {
                 <Route path="models" element={<Models />} />
                 <Route path="testimonials" element={<TestimonialsPage />} />
                 <Route path="team" element={<Team />} />
+                <Route path="contact" element={<Contact />} />
             </Routes>
         </>
     );
