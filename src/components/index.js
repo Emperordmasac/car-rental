@@ -7,6 +7,7 @@ import Banner from "./Banner";
 import ChooseUs from "./ChooseUs";
 import Testimonials from "./Testimonials";
 import Faq from "./Faq";
+import Download from "./Download";
 
 export {
     Navbar,
@@ -18,4 +19,5 @@ export {
     ChooseUs,
     Testimonials,
     Faq,
+    Download,
 };

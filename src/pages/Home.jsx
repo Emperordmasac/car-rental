@@ -7,6 +7,7 @@ import {
     ChooseUs,
     Testimonials,
     Faq,
+    Download,
 } from "components";
 
 const Home = () => {
@@ -20,6 +21,7 @@ const Home = () => {
             <ChooseUs />
             <Testimonials />
             <Faq />
+            <Download />
         </>
     );
 };
