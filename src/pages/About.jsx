@@ -48,7 +48,11 @@ const About = () => {
                                 </div>
 
                                 <div className="about-main__text__icons__box">
-                                    <img src={Box3} alt="car-icon" />
+                                    <img
+                                        src={Box3}
+                                        alt="car-icon"
+                                        className="last-fk"
+                                    />
                                     <span>
                                         <h4>75</h4>
                                         <p>Repair Shop</p>
