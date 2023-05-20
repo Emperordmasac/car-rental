@@ -23,12 +23,12 @@ const About = () => {
                                 You start the engine and your adventure begins
                             </h2>
                             <p>
-                                Certain but she but shyness why cottage. Guy the
-                                put instrument sir entreaties affronting.
-                                Pretended exquisite see cordially the you. Weeks
-                                quiet do vexed or whose. Motionless if no to
-                                affronting imprudence no precaution. My indulged
-                                as disposal strongly attended.
+                                Car Rental is a transport company which is a
+                                limited company registered in Africa and Europe
+                                whose registered address is at 100 New Bridge
+                                Street, London. Car Rental is part of Booking
+                                Holdings Inc., The world leader in online travel
+                                & related services.
                             </p>
                             <div className="about-main__text__icons">
                                 <div className="about-main__text__icons__box">

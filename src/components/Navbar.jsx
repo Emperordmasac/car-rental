@@ -61,10 +61,16 @@ const Navbar = () => {
 
                     {/* nav buttons */}
                     <div className="navbar__buttons">
-                        <Link className="navbar__buttons__sign-in" to="/">
+                        <Link
+                            className="navbar__buttons__sign-in"
+                            to="/contact"
+                        >
                             Sign In
                         </Link>
-                        <Link className="navbar__buttons__register" to="/">
+                        <Link
+                            className="navbar__buttons__register"
+                            to="/contact"
+                        >
                             Register
                         </Link>
                     </div>

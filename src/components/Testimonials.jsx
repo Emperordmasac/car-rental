@@ -33,8 +33,8 @@ const Testimonials = () => {
                                     <div className="all-testimonials__box__name__profile">
                                         <img src={Img2} alt="user-img" />
                                         <span>
-                                            <h4>Parry Hotter</h4>
-                                            <p>Belgrade</p>
+                                            <h4>Micheal Odoba</h4>
+                                            <p>Business Owner</p>
                                         </span>
                                     </div>
                                 </div>
@@ -54,7 +54,7 @@ const Testimonials = () => {
                                         <img src={Img3} alt="user-img" />
                                         <span>
                                             <h4>Ron Rizzly</h4>
-                                            <p>Novi Sad</p>
+                                            <p>CEO</p>
                                         </span>
                                     </div>
                                 </div>

@@ -72,16 +72,16 @@
     }
 
     &__register {
-      background-color: $text-orange;
+      background-color: #a32cc4;
       color: white;
       padding: 1.5rem 3rem;
       border-radius: 3px;
-      box-shadow: 0 10px 15px 0 rgb(255 83 48 / 35%);
+      // box-shadow: 0 10px 15px 0 rgb(255 83 48 / 35%);
       transition: all 0.3s;
 
       &:hover {
         box-shadow: 0 10px 15px 0 rgb(255 83 48 / 50%);
-        background-color: #fa4226;
+        background-color: #a32cc4;
       }
     }
     a {

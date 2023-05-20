@@ -12,21 +12,21 @@ const Footer = () => {
                             </li>
 
                             <li>
-                                We offers a big range of vehicles for all your
-                                driving needs. We have the perfect car to meet
-                                your needs.
+                                We have the perfect car to meet your needs. We
+                                offers a big range of vehicles for all your
+                                driving needs.
                             </li>
 
                             <li>
                                 <a href="tel:123456789">
-                                    <i className="fa-solid fa-phone"></i> &nbsp;
+                                    <i className="fa-solid fa-phone"></i>
                                     (123) -456-789
                                 </a>
                             </li>
                             <li>
                                 <a href="mailto:carrental@gmail.com">
                                     <i className="fa-solid fa-envelope"></i>
-                                    &nbsp; carrental@gmail.com
+                                    carrental@gmail.com
                                 </a>
                             </li>
                             <li>
@@ -36,7 +36,7 @@ const Footer = () => {
                                     style={{ fontSize: "14px" }}
                                     target="_blank"
                                 >
-                                    Design by Snow.dev
+                                    <b>Designed by SNOW.Dev</b>
                                 </a>
                             </li>
                         </ul>
@@ -44,7 +44,7 @@ const Footer = () => {
                         <ul className="footer-content__2">
                             <li>Company</li>
                             <li>
-                                <a href="#home">New York</a>
+                                <a href="#home">Teams</a>
                             </li>
                             <li>
                                 <a href="#home">Careers</a>
@@ -63,7 +63,7 @@ const Footer = () => {
                         <ul className="footer-content__2">
                             <li>Working Hours</li>
                             <li>Mon - Fri: 9:00AM - 9:00PM</li>
-                            <li>Sat: 9:00AM - 19:00PM</li>
+                            <li>Sat: 9:00AM - 10:00PM</li>
                             <li>Sun: Closed</li>
                         </ul>
 
@@ -71,8 +71,8 @@ const Footer = () => {
                             <li>Subscription</li>
                             <li>
                                 <p>
-                                    Subscribe your Email address for latest news
-                                    & updates.
+                                    Stay in the loop with our latest News &
+                                    Updates.
                                 </p>
                             </li>
                             <li>
