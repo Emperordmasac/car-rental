@@ -46,8 +46,8 @@ const Testimonials = () => {
                                 </span>
                                 <p>
                                     "The car was in great condition and made our
-                                    trip even better. Highly recommend for this
-                                    car rental website!"
+                                    trip even better. Highly recommend Kings
+                                    Ride!"
                                 </p>
                                 <div className="all-testimonials__box__name">
                                     <div className="all-testimonials__box__name__profile">

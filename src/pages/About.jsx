@@ -23,10 +23,10 @@ const About = () => {
                                 You start the engine and your adventure begins
                             </h2>
                             <p>
-                                Car Rental is a transport company which is a
+                                Kings Ride is a transport company which is a
                                 limited company registered in Africa and Europe
                                 whose registered address is at 100 New Bridge
-                                Street, London. Car Rental is part of Booking
+                                Street, London. Kings Ride is part of Booking
                                 Holdings Inc., The world leader in online travel
                                 & related services.
                             </p>

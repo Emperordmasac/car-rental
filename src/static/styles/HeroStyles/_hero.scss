@@ -89,7 +89,7 @@
         background-color: $text-orange;
         padding: 1.8rem 3rem;
         border-radius: 0.3rem;
-        box-shadow: 0 10px 15px 0 rgb(255 83 48 / 35%);
+        box-shadow: 0 10px 15px 0 rgb(117 13 201 / 35%);
         transition: all 0.3s;
         border: 2px solid $text-orange;
 
@@ -98,8 +98,9 @@
         }
 
         &:hover {
-          box-shadow: 0 10px 15px 0 rgb(255 83 48 / 60%);
-          background-color: #fa4226;
+        box-shadow: 0 10px 15px 0 rgb(117 13 201 / 35%);
+          background-color: #fff;
+          color: $text-orange
         }
       }
 

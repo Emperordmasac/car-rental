@@ -90,7 +90,7 @@ body {
   color: #ff4d30;
 }
 .navbar__buttons__register {
-  background-color: #a32cc4;
+  background-color: #ff4d30;
   color: white;
   padding: 1.5rem 3rem;
   border-radius: 3px;
@@ -254,7 +254,7 @@ body {
   background-color: #ff4d30;
   padding: 1.8rem 3rem;
   border-radius: 0.3rem;
-  box-shadow: 0 10px 15px 0 rgba(255, 83, 48, 0.35);
+  box-shadow: 0 10px 15px 0 rgba(117, 13, 201, 0.35);
   transition: all 0.3s;
   border: 2px solid #ff4d30;
 }
@@ -264,8 +264,9 @@ body {
   }
 }
 .hero-content__text__btns__book-ride:hover {
-  box-shadow: 0 10px 15px 0 rgba(255, 83, 48, 0.6);
-  background-color: #fa4226;
+  box-shadow: 0 10px 15px 0 rgba(117, 13, 201, 0.35);
+  background-color: #fff;
+  color: #ff4d30;
 }
 .hero-content__text__btns__learn-more {
   background-color: #010103;
@@ -428,12 +429,12 @@ body {
   font-weight: 500;
   color: white;
   background-color: #ff4d30;
-  box-shadow: 0 10px 15px rgba(255, 83, 48, 0.35);
+  box-shadow: 0 10px 15px 0 rgba(117, 13, 201, 0.35);
   cursor: pointer;
   transition: all 0.3s;
 }
 .book-content__box button:hover {
-  box-shadow: 0 10px 15px rgba(255, 83, 48, 0.55);
+  box-shadow: 0 10px 15px 0 rgba(117, 13, 201, 0.35);
 }
 
 .error-message {

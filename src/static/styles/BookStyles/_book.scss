@@ -124,12 +124,12 @@
       font-weight: 500;
       color: white;
       background-color: $text-orange;
-      box-shadow: 0 10px 15px rgb(255 83 48 / 35%);
+      box-shadow: 0 10px 15px 0 rgb(117 13 201 / 35%);
       cursor: pointer;
       transition: all 0.3s;
 
       &:hover {
-        box-shadow: 0 10px 15px rgb(255 83 48 / 55%);
+        box-shadow: 0 10px 15px 0 rgb(117 13 201 / 35%);
       }
     }
   }

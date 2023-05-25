@@ -17,11 +17,11 @@ const Contact = () => {
                             </p>
                             <a href="/">
                                 <i className="fa-solid fa-phone"></i>&nbsp;
-                                (123) 456-7869
+                                (234) 903-987-5250
                             </a>
                             <a href="/">
                                 <i className="fa-solid fa-envelope"></i>&nbsp;
-                                carrental@carmail.com
+                                kingsride@carmail.com
                             </a>
                             <a href="/">
                                 <i className="fa-solid fa-location-dot"></i>

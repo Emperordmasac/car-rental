@@ -9,10 +9,10 @@ const Download = () => {
                     <div className="download-text">
                         <h2>Download our app to get most out of it</h2>
                         <p>
-                            Car Rental is a transport company which is a limited
+                            Kings Ride is a transport company which is a limited
                             company registered in Africa and Europe whose
                             registered address is at 100 New Bridge Street,
-                            London. Car Rental is part of Booking Holdings Inc.,
+                            London. Kings Ride is part of Booking Holdings Inc.,
                             The world leader in online travel & related
                             services.
                         </p>

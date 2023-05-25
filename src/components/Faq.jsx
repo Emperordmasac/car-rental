@@ -24,7 +24,7 @@ const Faq = () => {
                             <h5>FAQ</h5>
                             <h2>Frequently Asked Questions</h2>
                             <p>
-                                Frequently Asked Questions About the Car Rental
+                                Frequently Asked Questions About the Kings Ride
                                 Booking Process on Our Website: Answers to
                                 Common Concerns and Inquiries.
                             </p>
@@ -58,7 +58,7 @@ const Faq = () => {
                                     the most value for your money. By comparing
                                     various options, you can find deals that
                                     offer lower prices, additional services, or
-                                    better car models. You can find car rental
+                                    better car models. You can find Kings Ride
                                     deals by researching online and comparing
                                     prices from different rental companies.
                                 </div>
@@ -93,7 +93,7 @@ const Faq = () => {
                                     Driver Fee, or may not rent to them at all.
                                     So car rental for the under-25s or over-70s
                                     can be more expensive – which is one more
-                                    reason to book with Rentalcars.com, as we
+                                    reason to book with KingsRide.com, as we
                                     work with all the big brands. Just check
                                     each car’s terms and conditions to see if
                                     your age would make any difference.

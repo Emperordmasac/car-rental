@@ -8,7 +8,7 @@ const Footer = () => {
                     <div className="footer-content">
                         <ul className="footer-content__1">
                             <li>
-                                <span>CAR</span> Rental
+                                <span>KINGS</span> RIDE
                             </li>
 
                             <li>
@@ -20,13 +20,13 @@ const Footer = () => {
                             <li>
                                 <a href="tel:123456789">
                                     <i className="fa-solid fa-phone"></i>
-                                    (123) -456-789
+                                    (090) 398-752-50
                                 </a>
                             </li>
                             <li>
                                 <a href="mailto:carrental@gmail.com">
                                     <i className="fa-solid fa-envelope"></i>
-                                    carrental@gmail.com
+                                    kingsride@gmail.com
                                 </a>
                             </li>
                             <li>
